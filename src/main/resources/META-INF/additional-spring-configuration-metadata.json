@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "app.filePath",
+      "type": "java.lang.String",
+      "description": "Description for app.filePath."
+    },
+    {
+      "name": "app.filePath",
+      "type": "java.lang.String",
+      "description": "Description for app.filePath."
+    }
+  ] }
